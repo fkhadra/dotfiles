@@ -1,6 +1,6 @@
 # Dotfiles
 
-My dotfiles for quick settings.
+My dotfiles for quick settings. For the moment the script work only for debian like distrib(debian, mint, ubuntu...).
 
 ## How to use
 
@@ -32,3 +32,11 @@ Opening recently opened files with the [mru.vim](https://github.com/vim-scripts/
 Distraction free mode using [goyo.vim](https://github.com/junegunn/goyo.vim) and [vim-zenroom2](https://github.com/amix/vim-zenroom2):
 ![Screenshot 4](https://dnp4pehkvoo6n.cloudfront.net/f0dcc4c9739148c56cbf8285a910ac41/as/Zen%20mode.png)
 
+## Fix font issue
+
+When your terminal use the system font, the specials characters will be not displayed correctly.
+To fix it, you have to open your terminal preference and choose the font Meslo Lg Powerline regular
+
+## TODO
+
+- [ ] Add support for rhel flavor
